@@ -1,0 +1,8 @@
+# Carpetas generadas
+bin/
+obj/
+.vs/
+
+# Otros archivos de usuario
+*.user
+*.suo
